@@ -1,0 +1,32 @@
+[
+    {
+        "Id": "Car1",
+        "Maker": "Car Maker",
+        "img": "https://media.wired.com/photos/5d09594a62bcb0c9752779d9/master/pass/Transpo_G70_TA-518126.jpg",
+        "Url": "https://www.wired.com/story/jd-power-korean-cars-beat-us-europe-quality/",
+        "Title": "2019 Genesis G70",
+        "Description": "The G70 is the newest model to enter the Genesis family and adds a sporty, yet luxurious flavor to the lineup.",
+        "Ratings": [
+            5,
+            5
+        ]
+    },
+    {
+        "Id": "Table1",
+        "Maker": "Table Maker",
+        "img": "https://www.ikea.com/gb/en/images/products/ekedalen-extendable-table__0736964_PE740828_S5.JPG?f=s",
+        "Url": "https://www.ikea.com/gb/en/p/ekedalen-extendable-table-oak-70340812/",
+        "Title": "Extendable table",
+        "Description": "A durable dining table that makes it easy to have big dinners.",
+        "Ratings": null
+    },
+    {
+        "Id": "Phone1",
+        "Maker": "Phone Maker",
+        "img": "https://cdn.pocket-lint.com/r/s/1200x/assets/images/149324-phones-review-review-iphone-11-pro-max-review-product-shots-image1-keant0hfcg.jpg",
+        "Url": "https://www.pocket-lint.com/phones/reviews/apple/149324-apple-iphone-11-pro-max-review",
+        "Title": "Iphone 11",
+        "Description": "The iPhone 11 Pro brings with it a new camera system",
+        "Ratings": null
+    }
+]
